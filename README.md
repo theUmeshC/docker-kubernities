@@ -15,11 +15,11 @@ A project do display the docker and kubernetes skills for containerization and o
 
 ## Introduction
 
-This project is aimed at [briefly describe the purpose and goals of the project]. It utilizes Docker and Kubernetes for containerization and orchestration, React for the frontend, and Node.js for the backend.
+This project is aimed at manage your tasks. It utilizes Docker and Kubernetes for containerization and orchestration, React for the frontend, and Node.js for the backend.
 
 ## Features
 
-- List out the key features of your application.
+- A simple application to manage your tasks.
 
 ## Prerequisites
 
