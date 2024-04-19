@@ -21,7 +21,6 @@ This project is aimed at manage your tasks. It utilizes Docker and Kubernetes fo
 
 Before running this project locally or deploying it, ensure you have the following prerequisites installed:
 
-- Docker
 - Kubernetes (minikube and kubectl)
 
 ## Installation
